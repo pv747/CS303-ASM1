@@ -8,3 +8,5 @@ the array and return the new value and old value back to the user.
 3) A function that adds a new integer to the end of the array
 4) A function which intakes an index of an array and replaces the value with either 0 or removes
 the integer altogether.
+
+The user will select which function to use by entering an integer ranging from 1 to 4.
