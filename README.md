@@ -1,5 +1,9 @@
 # CS303-ASM1
 
+## data.txt file specifications:
+The filename should be "data.txt".
+Every integer in the file up to 100 will be loaded into the array and split by the " " value.
+
 ## Upon running the Program, a file named "data.txt" will be loaded into an array presented with four different functions:
 1) A function to check if a certain integer exists in the array if the number is present return the
 index where the number is present.
@@ -11,7 +15,6 @@ the integer altogether.
 
 
 The user will select which function to use by entering an integer ranging from 1 to 4.
-
 ![alt text](https://github.com/pv747/CS303-ASM1/blob/e38901fa3ce69a7d7829bc04d3f29fc9c1fc9752/Screenshots/Select_functionality.png)
 
 ## 1.) Search target function:
