@@ -29,6 +29,6 @@ Upon selecting 3, the user will be prompted with text asking the user for a valu
 
 After the program successfully modified a number in the array, the program will print the new array to the user.
 
-## 4. ) Set integr at index to 0:
+## 4. ) Set to 0 Function:
 
 Upon selecting 4, the user will be prompted with text asking the user to specify an index in the array they would like to set to 0. if the user entry is invalid or out of bounds, an error will be printed as such and they wil be prompted to reenter the index value.
