@@ -9,7 +9,10 @@ the array and return the new value and old value back to the user.
 4) A function which intakes an index of an array and replaces the value with either 0 or removes
 the integer altogether.
 
+
 The user will select which function to use by entering an integer ranging from 1 to 4.
+
+![alt text](https://github.com/pv747/CS303-ASM1/blob/7df8c0dd934a47e865f13301dc0a0c30188c388a/Screenshots/Add_val.png)
 
 ## 1.) Search target function:
 Upon selecting 1, the user will be prompted with text asking user for a value they would like to search. If the user enters an invalid input(non-integer), they will be prompted to reenter the search value.
