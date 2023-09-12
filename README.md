@@ -33,7 +33,7 @@ After the program successfully modified a number in the array, the program will 
 ![alt text](https://github.com/pv747/CS303-ASM1/blob/e38901fa3ce69a7d7829bc04d3f29fc9c1fc9752/Screenshots/Modify_val.png)
 ## 3.) Add value function:
 Upon selecting 3, the user will be prompted with text asking the user for a value they would like to add to the very end of the array. If the user enters an invalid input(non-integer), or the program could not add the value for any reason, an error message will be printed indicating such and asking the user for reentry.
-![alt text](https://github.com/pv747/CS303-ASM1/blob/e38901fa3ce69a7d7829bc04d3f29fc9c1fc9752/Screenshots/Index_out_of_bounds_err.png)
+![alt text](https://github.com/pv747/CS303-ASM1/blob/624350bc36d6d281b1aaa64e3c27a22fc81e3d34/Screenshots/non_integer_value_error.png)
 
 After the program successfully modified a number in the array, the program will print the new array to the user.
 ![alt text](https://github.com/pv747/CS303-ASM1/blob/e38901fa3ce69a7d7829bc04d3f29fc9c1fc9752/Screenshots/Add_val.png)
